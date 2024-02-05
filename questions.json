@@ -4,5 +4,11 @@
     "title": "set1",
     "file": "set1.json",
     "location": "Questions/set1.json"
+  },
+  {
+    "id":  2,
+    "title": "set2",
+    "file": "set2.json",
+    "location": "Questions/set2.json"
   }
 ]
