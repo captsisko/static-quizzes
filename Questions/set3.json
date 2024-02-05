@@ -1,0 +1,58 @@
+[
+  {
+    "instruction": "Select the correct word to complete the idiom: ",
+    "question": "At the drop of a __[1]__.",
+    "options": [
+      {
+        "option": "hat",
+        "answer": true
+      },
+      {
+        "option": "coin",
+        "answer": false
+      },
+      {
+        "option": "glass",
+        "answer": false
+      },
+      {
+        "option": "ball",
+        "answer": false
+      }
+    ]
+  },
+  {
+    "instruction": "Fill in the blanks with the appropriate words.",
+    "question": "If I __[1]__ the lottery, I __[2]__ travel the world.",
+    "options": [
+      [
+        {
+          "option": "win",
+          "answer": true
+        },
+        {
+          "option": "won",
+          "answer": false
+        },
+        {
+          "option": "wins",
+          "answer": false
+        }
+      ],
+      [
+        {
+          "option": "will",
+          "answer": true
+        },
+        {
+          "option": "would",
+          "answer": false
+        },
+        {
+          "option": "can",
+          "answer": false
+        }
+      ]
+    ]
+  }
+]

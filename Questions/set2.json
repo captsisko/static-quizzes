@@ -1,0 +1,28 @@
+[
+  {
+    "instruction": "Select the word that is opposite in meaning to the underlined word: ",
+    "question": "He was quite <u>elated</u> after hearing the good news.",
+    "options": [
+      {
+        "option": "excited",
+        "answer": false,
+        "selected": false
+      },
+      {
+        "option": "depressed",
+        "answer": true,
+        "selected": false
+      },
+      {
+        "option": "happy",
+        "answer": false,
+        "selected": false
+      },
+      {
+        "option": "indifferent",
+        "answer": false,
+        "selected": false
+      }
+    ]
+  }
+]

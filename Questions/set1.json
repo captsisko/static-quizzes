@@ -1,0 +1,60 @@
+[
+  {
+    "instruction": "Select all correct answers from the following options.",
+    "question": "Which of the following are birds?",
+    "options": [
+      {
+        "option": "Sparrow",
+        "answer": true,
+        "selected": false
+      },
+      {
+        "option": "Salmon",
+        "answer": false,
+        "selected": false
+      },
+      {
+        "option": "Eagle",
+        "answer": true,
+        "selected": false
+      },
+      {
+        "option": "Lion",
+        "answer": false,
+        "selected": false
+      },
+      {
+        "option": "Penguin",
+        "answer": true,
+        "selected": false
+      }
+    ],
+    "multi-choice": true
+  },
+  {
+    "instruction": "Choose the synonym of the underlined word:",
+    "question": "The **ancient** ruins were a sight to behold.",
+    "options": [
+        {
+          "option": "old",
+          "answer": true,
+          "selected": false
+        },
+        {
+          "option": "new",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "modern",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "recent",
+          "answer": false,
+          "selected": false
+        }
+    ]
+  }
+]
