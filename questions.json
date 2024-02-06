@@ -10,5 +10,11 @@
     "title": "set2",
     "file": "set2.json",
     "location": "Questions/set2.json"
+  },
+  {
+    "id":  3,
+    "title": "set3",
+    "file": "set3.json",
+    "location": "Questions/set3.json"
   }
 ]
