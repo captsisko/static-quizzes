@@ -25,32 +25,5 @@
         {"option": "seen", "answer": false, "selected": false}
       ]
     }
-  },
-  {
-    "instruction": "Fill in the blank with the correct form of the verb.",
-    "question": "Every morning, she [0] up early and [1] a healthy breakfast before she [2] to work.",
-    "options": {
-      "0": [
-        {"option": "wake", "answer": false, "selected": false},
-        {"option": "wakes", "answer": true, "selected": false},
-        {"option": "woke", "answer": false, "selected": false},
-        {"option": "waking", "answer": false, "selected": false},
-        {"option": "is waking", "answer": false, "selected": false}
-      ],
-      "1": [
-        {"option": "eats", "answer": true, "selected": false},
-        {"option": "eat", "answer": false, "selected": false},
-        {"option": "ate", "answer": false, "selected": false},
-        {"option": "eating", "answer": false, "selected": false},
-        {"option": "is eating", "answer": false, "selected": false}
-      ],
-      "2": [
-        {"option": "goes", "answer": true, "selected": false},
-        {"option": "went", "answer": false, "selected": false},
-        {"option": "going", "answer": false, "selected": false},
-        {"option": "go", "answer": false, "selected": false},
-        {"option": "have gone", "answer": false, "selected": false}
-      ]
-    }
   }
 ]
