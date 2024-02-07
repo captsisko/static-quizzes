@@ -1,14 +1,28 @@
 [
   {
-    "instruction": "Fill in the blank with the correct form of the verb.",
-    "question": "Every morning, I [0].",
+    "instruction": "Fill in the blanks with the correct words.",
+    "question": "[0] many countries [1] you [2]?",
     "options": {
       "0": [
-        {"option": "wake", "answer": false},
-        {"option": "wakes", "answer": true},
-        {"option": "woke", "answer": false},
-        {"option": "waking", "answer": false},
-        {"option": "is waking", "answer": false}
+        {"option": "In", "answer": false, "selected": false},
+        {"option": "From", "answer": false, "selected": false},
+        {"option": "To", "answer": true, "selected": false},
+        {"option": "At", "answer": false, "selected": false},
+        {"option": "On", "answer": false, "selected": false}
+      ],
+      "1": [
+        {"option": "have", "answer": true, "selected": false},
+        {"option": "do", "answer": false, "selected": false},
+        {"option": "are", "answer": false, "selected": false},
+        {"option": "were", "answer": false, "selected": false},
+        {"option": "is", "answer": false, "selected": false}
+      ],
+      "2": [
+        {"option": "visited", "answer": true, "selected": false},
+        {"option": "visit", "answer": false, "selected": false},
+        {"option": "visiting", "answer": false, "selected": false},
+        {"option": "go", "answer": false, "selected": false},
+        {"option": "seen", "answer": false, "selected": false}
       ]
     }
   },
@@ -17,106 +31,25 @@
     "question": "Every morning, she [0] up early and [1] a healthy breakfast before she [2] to work.",
     "options": {
       "0": [
-        {"option": "wake", "answer": false},
-        {"option": "wakes", "answer": true},
-        {"option": "woke", "answer": false},
-        {"option": "waking", "answer": false},
-        {"option": "is waking", "answer": false}
+        {"option": "wake", "answer": false, "selected": false},
+        {"option": "wakes", "answer": true, "selected": false},
+        {"option": "woke", "answer": false, "selected": false},
+        {"option": "waking", "answer": false, "selected": false},
+        {"option": "is waking", "answer": false, "selected": false}
       ],
       "1": [
-        {"option": "eats", "answer": true},
-        {"option": "eat", "answer": false},
-        {"option": "ate", "answer": false},
-        {"option": "eating", "answer": false},
-        {"option": "is eating", "answer": false}
+        {"option": "eats", "answer": true, "selected": false},
+        {"option": "eat", "answer": false, "selected": false},
+        {"option": "ate", "answer": false, "selected": false},
+        {"option": "eating", "answer": false, "selected": false},
+        {"option": "is eating", "answer": false, "selected": false}
       ],
       "2": [
-        {"option": "goes", "answer": true},
-        {"option": "went", "answer": false},
-        {"option": "going", "answer": false},
-        {"option": "go", "answer": false},
-        {"option": "have gone", "answer": false}
-      ]
-    }
-  },
-  {
-    "instruction": "Complete the sentence by choosing the correct prepositions.",
-    "question": "He is interested [0] learning new languages, particularly [1] Spanish [2] French.",
-    "options": {
-      "0": [
-        {"option": "on", "answer": false},
-        {"option": "in", "answer": true},
-        {"option": "at", "answer": false},
-        {"option": "by", "answer": false},
-        {"option": "with", "answer": false}
-      ],
-      "1": [
-        {"option": "in", "answer": true},
-        {"option": "on", "answer": false},
-        {"option": "at", "answer": false},
-        {"option": "by", "answer": false},
-        {"option": "over", "answer": false}
-      ],
-      "2": [
-        {"option": "and", "answer": true},
-        {"option": "but", "answer": false},
-        {"option": "or", "answer": false},
-        {"option": "yet", "answer": false},
-        {"option": "so", "answer": false}
-      ]
-    }
-  },
-  {
-    "instruction": "Select the correct words to complete the sentence.",
-    "question": "If I [0] the chance, I [1] travel around the world [2] write a book about my adventures.",
-    "options": {
-      "0": [
-        {"option": "have", "answer": false},
-        {"option": "has", "answer": false},
-        {"option": "had", "answer": true},
-        {"option": "having", "answer": false},
-        {"option": "is having", "answer": false}
-      ],
-      "1": [
-        {"option": "will", "answer": false},
-        {"option": "would", "answer": true},
-        {"option": "can", "answer": false},
-        {"option": "could", "answer": false},
-        {"option": "shall", "answer": false}
-      ],
-      "2": [
-        {"option": "but", "answer": false},
-        {"option": "and", "answer": true},
-        {"option": "or", "answer": false},
-        {"option": "yet", "answer": false},
-        {"option": "so", "answer": false}
-      ]
-    }
-  },
-  {
-    "instruction": "Choose the correct sequence of adjectives.",
-    "question": "She bought a [0] little [1] [2] dress for the party.",
-    "options": {
-      "0": [
-        {"option": "beautiful", "answer": false},
-        {"option": "ugly", "answer": false},
-        {"option": "lovely", "answer": true},
-        {"option": "awkward", "answer": false},
-        {"option": "huge", "answer": false}
-      ],
-      "1": [
-        {"option": "red", "answer": false},
-        {"option": "black", "answer": false},
-        {"option": "green", "answer": false},
-        {"option": "blue", "answer": false},
-        {"option": "white", "answer": true}
-      ],
-      "2": [
-        {"option": "silk", "answer": true},
-        {"option": "wool", "answer": false},
-        {"option": "cotton", "answer": false},
-        {"option": "leather", "answer": false},
-        {"option": "denim", "answer": false}
+        {"option": "goes", "answer": true, "selected": false},
+        {"option": "went", "answer": false, "selected": false},
+        {"option": "going", "answer": false, "selected": false},
+        {"option": "go", "answer": false, "selected": false},
+        {"option": "have gone", "answer": false, "selected": false}
       ]
     }
   }
