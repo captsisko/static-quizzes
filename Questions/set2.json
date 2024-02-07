@@ -24,19 +24,19 @@
         {"option": "is waking", "answer": false, "selected": false}
       ],
       "1": [
-        {"option": "eats", "answer": true, "selected": false}, "selected": false,, "selected": false
-        {"option": "eat", "answer": false, "selected": false}, "selected": false,, "selected": false
-        {"option": "ate", "answer": false, "selected": false}, "selected": false,, "selected": false
-        {"option": "eating", "answer": false, "selected": false}, "selected": false,, "selected": false
-        {"option": "is eating", "answer": false, "selected": false}, "selected": false
-, "selected": false      ],
+        {"option": "eats", "answer": true, "selected": false},
+        {"option": "eat", "answer": false, "selected": false},
+        {"option": "ate", "answer": false, "selected": false},
+        {"option": "eating", "answer": false, "selected": false},
+        {"option": "is eating", "answer": false, "selected": false}
+      ],
       "2": [
-        {"option": "goes", "answer": true, "selected": false}, "selected": false,, "selected": false
-        {"option": "went", "answer": false, "selected": false}, "selected": false,, "selected": false
-        {"option": "going", "answer": false, "selected": false}, "selected": false,, "selected": false
-        {"option": "go", "answer": false, "selected": false}, "selected": false,, "selected": false
-        {"option": "have gone", "answer": false, "selected": false}, "selected": false
-, "selected": false      ]
+        {"option": "goes", "answer": true, "selected": false},
+        {"option": "went", "answer": false, "selected": false},
+        {"option": "going", "answer": false, "selected": false},
+        {"option": "go", "answer": false, "selected": false},
+        {"option": "have gone", "answer": false, "selected": false}
+      ]
     }
   },
   {
@@ -44,25 +44,25 @@
     "question": "He is interested [0] learning new languages, particularly [1] Spanish [2] French.",
     "options": {
       "0": [
-        {"option": "on", "answer": false, "selected": false}, "selected": false,, "selected": false
-        {"option": "in", "answer": true, "selected": false}, "selected": false,, "selected": false
-        {"option": "at", "answer": false, "selected": false}, "selected": false,, "selected": false
-        {"option": "by", "answer": false, "selected": false}, "selected": false,, "selected": false
-        {"option": "with", "answer": false, "selected": false}, "selected": false
-, "selected": false      ],
+        {"option": "on", "answer": false, "selected": false},
+        {"option": "in", "answer": true, "selected": false},
+        {"option": "at", "answer": false, "selected": false},
+        {"option": "by", "answer": false, "selected": false},
+        {"option": "with", "answer": false, "selected": false}
+      ],
       "1": [
-        {"option": "in", "answer": true, "selected": false}, "selected": false,
-        {"option": "on", "answer": false, "selected": false}, "selected": false,
-        {"option": "at", "answer": false, "selected": false}, "selected": false,
-        {"option": "by", "answer": false, "selected": false}, "selected": false,
-        {"option": "over", "answer": false, "selected": false}, "selected": false
+        {"option": "in", "answer": true, "selected": false},
+        {"option": "on", "answer": false, "selected": false},
+        {"option": "at", "answer": false, "selected": false},
+        {"option": "by", "answer": false, "selected": false},
+        {"option": "over", "answer": false, "selected": false}
       ],
       "2": [
-        {"option": "and", "answer": true, "selected": false}, "selected": false,
-        {"option": "but", "answer": false, "selected": false}, "selected": false,
-        {"option": "or", "answer": false, "selected": false}, "selected": false,
-        {"option": "yet", "answer": false, "selected": false}, "selected": false,
-        {"option": "so", "answer": false, "selected": false}, "selected": false
+        {"option": "and", "answer": true, "selected": false}, 
+        {"option": "but", "answer": false, "selected": false}, 
+        {"option": "or", "answer": false, "selected": false}, 
+        {"option": "yet", "answer": false, "selected": false}, 
+        {"option": "so", "answer": false, "selected": false}
       ]
     }
   },
@@ -71,11 +71,11 @@
     "question": "If I [0] the chance, I [1] travel around the world [2] write a book about my adventures.",
     "options": {
       "0": [
-        {"option": "have", "answer": false, "selected": false}, "selected": false,
-        {"option": "has", "answer": false, "selected": false}, "selected": false,
-        {"option": "had", "answer": true, "selected": false}, "selected": false,
-        {"option": "having", "answer": false, "selected": false}, "selected": false,
-        {"option": "is having", "answer": false, "selected": false}, "selected": false
+        {"option": "have", "answer": false, "selected": false}, 
+        {"option": "has", "answer": false, "selected": false}, 
+        {"option": "had", "answer": true, "selected": false}, 
+        {"option": "having", "answer": false, "selected": false}, 
+        {"option": "is having", "answer": false, "selected": false}
       ],
       "1": [
         {"option": "will", "answer": false, "selected": false},
