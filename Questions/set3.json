@@ -5,19 +5,23 @@
     "options": [
       {
         "option": "hat",
-        "answer": true
+        "answer": true,
+        "selected": false
       },
       {
         "option": "coin",
-        "answer": false
+        "answer": false,
+        "selected": false
       },
       {
         "option": "glass",
-        "answer": false
+        "answer": false,
+        "selected": false
       },
       {
         "option": "ball",
-        "answer": false
+        "answer": false,
+        "selected": false
       }
     ]
   },
@@ -28,29 +32,35 @@
       [
         {
           "option": "win",
-          "answer": true
+          "answer": true,
+          "selected": false
         },
         {
           "option": "won",
-          "answer": false
+          "answer": false,
+          "selected": false
         },
         {
           "option": "wins",
-          "answer": false
+          "answer": false,
+          "selected": false
         }
       ],
       [
         {
           "option": "will",
-          "answer": true
+          "answer": true,
+          "selected": false
         },
         {
           "option": "would",
-          "answer": false
+          "answer": false,
+          "selected": false
         },
         {
           "option": "can",
-          "answer": false
+          "answer": false,
+          "selected": false
         }
       ]
     ]
