@@ -1,70 +1,55 @@
 [
   {
-    "instruction": "Select the correct word to complete the idiom: ",
-    "question": "At the drop of a __[1]__.",
-    "multi-choice": true,
+    "instruction": "Select the word that is opposite in meaning to the underlined word: ",
+    "question": "He was quite <u>elated</u> after hearing the good news.",
     "options": [
       {
-        "option": "hat",
+        "option": "excited",
+        "answer": false,
+        "selected": false
+      },
+      {
+        "option": "depressed",
         "answer": true,
         "selected": false
       },
       {
-        "option": "coin",
+        "option": "happy",
         "answer": false,
         "selected": false
       },
       {
-        "option": "glass",
-        "answer": false,
-        "selected": false
-      },
-      {
-        "option": "ball",
+        "option": "indifferent",
         "answer": false,
         "selected": false
       }
     ]
   },
   {
-    "instruction": "Fill in the blanks with the appropriate words.",
-    "question": "If I __[1]__ the lottery, I __[2]__ travel the world.",
-    "multi-choice": true,
-    "options": [
-      [
-        {
-          "option": "win",
-          "answer": true,
-          "selected": false
-        },
-        {
-          "option": "won",
-          "answer": false,
-          "selected": false
-        },
-        {
-          "option": "wins",
-          "answer": false,
-          "selected": false
-        }
+    "instruction": "Choose the correct sequence of adjectives.",
+    "question": "She bought a [0] little [1] [2] dress for the party.",
+    "options": {
+      "0": [
+        {"option": "beautiful", "answer": false, "selected": false},
+        {"option": "ugly", "answer": false, "selected": false},
+        {"option": "lovely", "answer": true, "selected": false},
+        {"option": "awkward", "answer": false, "selected": false},
+        {"option": "huge", "answer": false, "selected": false}
       ],
-      [
-        {
-          "option": "will",
-          "answer": true,
-          "selected": false
-        },
-        {
-          "option": "would",
-          "answer": false,
-          "selected": false
-        },
-        {
-          "option": "can",
-          "answer": false,
-          "selected": false
-        }
+      "1": [
+        {"option": "red", "answer": false, "selected": false},
+        {"option": "black", "answer": false, "selected": false},
+        {"option": "green", "answer": false, "selected": false},
+        {"option": "blue", "answer": false, "selected": false},
+        {"option": "white", "answer": true, "selected": false}
+      ],
+      "2": [
+        {"option": "silk", "answer": true, "selected": false},
+        {"option": "wool", "answer": false, "selected": false},
+        {"option": "cotton", "answer": false, "selected": false},
+        {"option": "leather", "answer": false, "selected": false},
+        {"option": "denim", "answer": false, "selected": false}
       ]
-    ]
+    }
   }
 ]
