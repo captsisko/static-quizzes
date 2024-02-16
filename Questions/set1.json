@@ -82,5 +82,98 @@
         "selected": false
       }
     ]
+  },
+  {
+    "instruction": "Identify the synonym of the highlighted word.",
+    "question": "The artist created a <strong>unique</strong> sculpture.",
+    "options": [
+      {
+        "option": "ordinary",
+        "answer": false,
+        "selected": false
+      },
+      {
+        "option": "uncommon",
+        "answer": true,
+        "selected": false
+      },
+      {
+        "option": "usual",
+        "answer": false,
+        "selected": false
+      },
+      {
+        "option": "standard",
+        "answer": false,
+        "selected": false
+      },
+      {
+        "option": "regular",
+        "answer": false,
+        "selected": false
+      }
+    ]
+  },
+  {
+    "instruction": "Choose the word that best completes the sentence.",
+    "question": "Due to the heavy rain, the game was _____.",
+    "options": [
+      {
+        "option": "postponed",
+        "answer": true,
+        "selected": false
+      },
+      {
+        "option": "accelerated",
+        "answer": false,
+        "selected": false
+      },
+      {
+        "option": "continued",
+        "answer": false,
+        "selected": false
+      },
+      {
+        "option": "started",
+        "answer": false,
+        "selected": false
+      },
+      {
+        "option": "ignored",
+        "answer": false,
+        "selected": false
+      }
+    ]
+  },
+  {
+    "instruction": "Select the antonym of the highlighted word.",
+    "question": "The solution was <u>obvious</u> to everyone.",
+    "options": [
+      {
+        "option": "clear",
+        "answer": false,
+        "selected": false
+      },
+      {
+        "option": "apparent",
+        "answer": false,
+        "selected": false
+      },
+      {
+        "option": "hidden",
+        "answer": true,
+        "selected": false
+      },
+      {
+        "option": "noticeable",
+        "answer": false,
+        "selected": false
+      },
+      {
+        "option": "evident",
+        "answer": false,
+        "selected": false
+      }
+    ]
   }
 ]
