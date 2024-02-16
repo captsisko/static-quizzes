@@ -33,7 +33,7 @@
   },
   {
     "instruction": "Choose the synonym of the underlined word:",
-    "question": "The **ancient** ruins were a sight to behold.",
+    "question": "The <u>ancient</u> ruins were a sight to behold.",
     "options": [
         {
           "option": "old",
