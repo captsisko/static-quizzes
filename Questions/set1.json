@@ -1,5 +1,17 @@
 [
   {
+    "instruction": "Select the appropriate modal verb.",
+    "question": "You [0] see a doctor if you feel sick.",
+    "options": {
+      "0": [
+        {"option": "can", "answer": false, "selected": false},
+        {"option": "should", "answer": true, "selected": false},
+        {"option": "must", "answer": false, "selected": false},
+        {"option": "will", "answer": false, "selected": false}
+      ]
+    }
+  },
+  {
     "instruction": "Select all correct answers from the following options.",
     "question": "Which of the following are birds?",
     "options": [
@@ -175,5 +187,21 @@
         "selected": false
       }
     ]
+  },
+  {
+    "instruction": "Choose the correct tense for the sentence.",
+    "question": "Yesterday, I [0] to the store and [1] some groceries.",
+    "options": {
+      "0": [
+        {"option": "go", "answer": false, "selected": false},
+        {"option": "went", "answer": true, "selected": false},
+        {"option": "will go", "answer": false, "selected": false}
+      ],
+      "1": [
+        {"option": "buy", "answer": false, "selected": false},
+        {"option": "bought", "answer": true, "selected": false},
+        {"option": "will buy", "answer": false, "selected": false}
+      ]
+    }
   }
 ]
