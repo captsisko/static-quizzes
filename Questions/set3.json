@@ -1,5 +1,23 @@
 [
   {
+    "instruction": "Fill in the blanks with the correct prepositions.",
+    "question": "She is interested [0] painting and spends most of her weekends [1] the art gallery.",
+    "options": {
+      "0": [
+        {"option": "in", "answer": true, "selected": false},
+        {"option": "on", "answer": false, "selected": false},
+        {"option": "at", "answer": false, "selected": false},
+        {"option": "with", "answer": false, "selected": false}
+      ],
+      "1": [
+        {"option": "at", "answer": true, "selected": false},
+        {"option": "in", "answer": false, "selected": false},
+        {"option": "on", "answer": false, "selected": false},
+        {"option": "by", "answer": false, "selected": false}
+      ]
+    }
+  },
+  {
     "instruction": "Select the word that is opposite in meaning to the underlined word: ",
     "question": "He was quite <u>elated</u> after hearing the good news.",
     "options": [
@@ -49,6 +67,42 @@
         {"option": "cotton", "answer": false, "selected": false},
         {"option": "leather", "answer": false, "selected": false},
         {"option": "denim", "answer": false, "selected": false}
+      ]
+    }
+  },
+  {
+    "instruction": "Identify the correct adjective.",
+    "question": "The [0] dog barked loudly throughout the night.",
+    "options": {
+      "0": [
+        {"option": "noisy", "answer": true, "selected": false},
+        {"option": "quiet", "answer": false, "selected": false},
+        {"option": "silent", "answer": false, "selected": false},
+        {"option": "calm", "answer": false, "selected": false},
+        {"option": "happy", "answer": false, "selected": false}
+      ]
+    }
+  },
+  {
+    "instruction": "Choose the correct sequence of words to form a question.",
+    "question": "[0] you [1] to the party [2] night?",
+    "options": {
+      "0": [
+        {"option": "Are", "answer": false, "selected": false},
+        {"option": "Do", "answer": false, "selected": false},
+        {"option": "Did", "answer": true, "selected": false},
+        {"option": "Will", "answer": false, "selected": false}
+      ],
+      "1": [
+        {"option": "go", "answer": false, "selected": false},
+        {"option": "went", "answer": true, "selected": false},
+        {"option": "going", "answer": false, "selected": false}
+      ],
+      "2": [
+        {"option": "last", "answer": true, "selected": false},
+        {"option": "next", "answer": false, "selected": false},
+        {"option": "this", "answer": false, "selected": false},
+        {"option": "every", "answer": false, "selected": false}
       ]
     }
   }

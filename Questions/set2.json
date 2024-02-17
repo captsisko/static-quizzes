@@ -52,5 +52,81 @@
         {"option": "have gone", "answer": false, "selected": false}
       ]
     }
+  },
+  {
+    "instruction": "Fill in the blanks with the appropriate words to complete the story.",
+    "question": "Yesterday, I [0] to the [1] to buy some [2]. On my way, I [3] an old friend. We [4] to catch up over [5] at a nearby [6]. After that, I [7] my shopping and [8] home. In the evening, I [9] a book and relaxed.",
+    "options": {
+      "0": [
+        {"option": "went", "answer": true, "selected": false},
+        {"option": "walked", "answer": false, "selected": false},
+        {"option": "drove", "answer": false, "selected": false},
+        {"option": "ran", "answer": false, "selected": false},
+        {"option": "flew", "answer": false, "selected": false}
+      ],
+      "1": [
+        {"option": "supermarket", "answer": true, "selected": false},
+        {"option": "office", "answer": false, "selected": false},
+        {"option": "gym", "answer": false, "selected": false},
+        {"option": "library", "answer": false, "selected": false},
+        {"option": "beach", "answer": false, "selected": false}
+      ],
+      "2": [
+        {"option": "groceries", "answer": true, "selected": false},
+        {"option": "books", "answer": false, "selected": false},
+        {"option": "clothes", "answer": false, "selected": false},
+        {"option": "electronics", "answer": false, "selected": false},
+        {"option": "furniture", "answer": false, "selected": false}
+      ],
+      "3": [
+        {"option": "met", "answer": true, "selected": false},
+        {"option": "called", "answer": false, "selected": false},
+        {"option": "ignored", "answer": false, "selected": false},
+        {"option": "avoided", "answer": false, "selected": false},
+        {"option": "greeted", "answer": false, "selected": false}
+      ],
+      "4": [
+        {"option": "decided", "answer": true, "selected": false},
+        {"option": "refused", "answer": false, "selected": false},
+        {"option": "forgot", "answer": false, "selected": false},
+        {"option": "hesitated", "answer": false, "selected": false},
+        {"option": "promised", "answer": false, "selected": false}
+      ],
+      "5": [
+        {"option": "coffee", "answer": true, "selected": false},
+        {"option": "dinner", "answer": false, "selected": false},
+        {"option": "lunch", "answer": false, "selected": false},
+        {"option": "breakfast", "answer": false, "selected": false},
+        {"option": "tea", "answer": false, "selected": false}
+      ],
+      "6": [
+        {"option": "cafe", "answer": true, "selected": false},
+        {"option": "park", "answer": false, "selected": false},
+        {"option": "restaurant", "answer": false, "selected": false},
+        {"option": "bar", "answer": false, "selected": false},
+        {"option": "theater", "answer": false, "selected": false}
+      ],
+      "7": [
+        {"option": "finished", "answer": true, "selected": false},
+        {"option": "started", "answer": false, "selected": false},
+        {"option": "postponed", "answer": false, "selected": false},
+        {"option": "cancelled", "answer": false, "selected": false},
+        {"option": "ignored", "answer": false, "selected": false}
+      ],
+      "8": [
+        {"option": "returned", "answer": true, "selected": false},
+        {"option": "moved", "answer": false, "selected": false},
+        {"option": "traveled", "answer": false, "selected": false},
+        {"option": "walked", "answer": false, "selected": false},
+        {"option": "ran", "answer": false, "selected": false}
+      ],
+      "9": [
+        {"option": "read", "answer": true, "selected": false},
+        {"option": "wrote", "answer": false, "selected": false},
+        {"option": "published", "answer": false, "selected": false},
+        {"option": "sold", "answer": false, "selected": false},
+        {"option": "bought", "answer": false, "selected": false}
+      ]
+    }
   }
 ]
