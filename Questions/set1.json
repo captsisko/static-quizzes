@@ -1,206 +1,68 @@
 [
   {
-    "instruction": "Select the appropriate modal verb.",
-    "question": "You [0] see a doctor if you feel sick.",
+    "instruction": "Choose the correct sequence of words to form a question.",
+    "question": "[0] you [1] to the party [2] night?",
     "options": {
       "0": [
-        {"option": "can", "answer": false, "selected": false},
-        {"option": "should", "answer": true, "selected": false},
-        {"option": "must", "answer": false, "selected": false},
-        {"option": "will", "answer": false, "selected": false}
-      ]
-    }
-  },
-  {
-    "instruction": "Select all correct answers from the following options.",
-    "question": "Which of the following are birds?",
-    "options": [
-      {
-        "option": "Sparrow",
-        "answer": true,
-        "selected": false
-      },
-      {
-        "option": "Salmon",
-        "answer": false,
-        "selected": false
-      },
-      {
-        "option": "Eagle",
-        "answer": true,
-        "selected": false
-      },
-      {
-        "option": "Lion",
-        "answer": false,
-        "selected": false
-      },
-      {
-        "option": "Penguin",
-        "answer": true,
-        "selected": false
-      }
-    ],
-    "multi-choice": true
-  },
-  {
-    "instruction": "Choose the synonym of the underlined word:",
-    "question": "The <u>ancient</u> ruins were a sight to behold.",
-    "options": [
         {
-          "option": "old",
+          "option": "Are",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "Do",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "Did",
           "answer": true,
           "selected": false
         },
         {
-          "option": "new",
-          "answer": false,
-          "selected": false
-        },
-        {
-          "option": "modern",
-          "answer": false,
-          "selected": false
-        },
-        {
-          "option": "recent",
+          "option": "Will",
           "answer": false,
           "selected": false
         }
-    ]
-  },
-  {
-    "instruction": "Select the word that is opposite in meaning to the underlined word: ",
-    "question": "He was quite <u>elated</u> after hearing the good news.",
-    "options": [
-      {
-        "option": "excited",
-        "answer": false,
-        "selected": false
-      },
-      {
-        "option": "depressed",
-        "answer": true,
-        "selected": false
-      },
-      {
-        "option": "happy",
-        "answer": false,
-        "selected": false
-      },
-      {
-        "option": "indifferent",
-        "answer": false,
-        "selected": false
-      }
-    ]
-  },
-  {
-    "instruction": "Identify the synonym of the highlighted word.",
-    "question": "The artist created a <strong>unique</strong> sculpture.",
-    "options": [
-      {
-        "option": "ordinary",
-        "answer": false,
-        "selected": false
-      },
-      {
-        "option": "uncommon",
-        "answer": true,
-        "selected": false
-      },
-      {
-        "option": "usual",
-        "answer": false,
-        "selected": false
-      },
-      {
-        "option": "standard",
-        "answer": false,
-        "selected": false
-      },
-      {
-        "option": "regular",
-        "answer": false,
-        "selected": false
-      }
-    ]
-  },
-  {
-    "instruction": "Choose the word that best completes the sentence.",
-    "question": "Due to the heavy rain, the game was _____.",
-    "options": [
-      {
-        "option": "postponed",
-        "answer": true,
-        "selected": false
-      },
-      {
-        "option": "accelerated",
-        "answer": false,
-        "selected": false
-      },
-      {
-        "option": "continued",
-        "answer": false,
-        "selected": false
-      },
-      {
-        "option": "started",
-        "answer": false,
-        "selected": false
-      },
-      {
-        "option": "ignored",
-        "answer": false,
-        "selected": false
-      }
-    ]
-  },
-  {
-    "instruction": "Select the antonym of the highlighted word.",
-    "question": "The solution was <u>obvious</u> to everyone.",
-    "options": [
-      {
-        "option": "clear",
-        "answer": false,
-        "selected": false
-      },
-      {
-        "option": "apparent",
-        "answer": false,
-        "selected": false
-      },
-      {
-        "option": "hidden",
-        "answer": true,
-        "selected": false
-      },
-      {
-        "option": "noticeable",
-        "answer": false,
-        "selected": false
-      },
-      {
-        "option": "evident",
-        "answer": false,
-        "selected": false
-      }
-    ]
-  },
-  {
-    "instruction": "Choose the correct tense for the sentence.",
-    "question": "Yesterday, I [0] to the store and [1] some groceries.",
-    "options": {
-      "0": [
-        {"option": "go", "answer": false, "selected": false},
-        {"option": "went", "answer": true, "selected": false},
-        {"option": "will go", "answer": false, "selected": false}
       ],
       "1": [
-        {"option": "buy", "answer": false, "selected": false},
-        {"option": "bought", "answer": true, "selected": false},
-        {"option": "will buy", "answer": false, "selected": false}
+        {
+          "option": "go",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "went",
+          "answer": true,
+          "selected": false
+        },
+        {
+          "option": "going",
+          "answer": false,
+          "selected": false
+        }
+      ],
+      "2": [
+        {
+          "option": "last",
+          "answer": true,
+          "selected": false
+        },
+        {
+          "option": "next",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "this",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "every",
+          "answer": false,
+          "selected": false
+        }
       ]
     }
   }
