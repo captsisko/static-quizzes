@@ -28,12 +28,12 @@
       "1": [
         {
           "option": "go",
-          "answer": false,
+          "answer": true,
           "selected": false
         },
         {
           "option": "went",
-          "answer": true,
+          "answer": false,
           "selected": false
         },
         {
