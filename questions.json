@@ -16,5 +16,11 @@
     "title": "set3",
     "file": "set3.json",
     "location": "Questions/set3.json"
+  },
+  {
+    "id":  4,
+    "title": "combo",
+    "file": "combo.json",
+    "location": "Questions/combo.json"
   }
 ]
