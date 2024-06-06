@@ -1,9 +1,9 @@
 [
   {
     "instruction": "",
-    "question": "Money is the [0] of all evil, so a popular saying goes. Yet, [1] want to find out for themselves.",
-    "options": {
-      "0": [
+    "question": "Money is the [1] of all evil, so a popular saying goes. Yet, [2] want to find out for themselves.",
+    "options": [
+      [
         {
           "option": "begining",
           "answer": false,
@@ -25,7 +25,7 @@
           "selected": false
         }
       ],
-      "1": [
+      [
         {
           "option": "someone",
           "answer": false,
@@ -47,6 +47,39 @@
           "selected": false
         }
       ]
-    }
+    ]
+  },
+  {
+    "instruction": "",
+    "question": "Pride goes before a [1].",
+    "options": [
+      [
+        {
+          "option": "jump",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "leap",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "launch",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "drop",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "fall",
+          "answer": false,
+          "selected": false
+        }
+      ]
+    ]
   }
 ]
