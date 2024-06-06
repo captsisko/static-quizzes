@@ -2,8 +2,8 @@
   {
     "instruction": "",
     "question": "Best streaming service in the world, [1].",
-    "options": [
-      [
+    "options": {
+      "0 ": [
         {
           "option": "Paramount",
           "answer": false,
@@ -30,13 +30,13 @@
           "selected": false
         }
       ]
-    ]
+    }
   },
   {
     "instruction": "",
     "question": "Money is the [1] of all evil, so a popular saying goes.",
-    "options": [
-      [
+    "options": {
+      "0 ": [
         {
           "option": "begining",
           "answer": false,
@@ -58,13 +58,13 @@
           "selected": false
         }
       ]
-    ]
+    }
   },
   {
     "instruction": "",
     "question": "Pride goes before a [1].",
-    "options": [
-      [
+    "options": {
+      "0 ": [
         {
           "option": "jump",
           "answer": false,
@@ -91,6 +91,6 @@
           "selected": false
         }
       ]
-    ]
+    }
   }
 ]
