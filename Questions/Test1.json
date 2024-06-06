@@ -1,40 +1,7 @@
 [
   {
     "instruction": "",
-    "question": "Best streaming service in the world, [1].",
-    "options": {
-      "0 ": [
-        {
-          "option": "Paramount",
-          "answer": false,
-          "selected": false
-        },
-        {
-          "option": "Disney",
-          "answer": false,
-          "selected": false
-        },
-        {
-          "option": "Netflix",
-          "answer": true,
-          "selected": false
-        },
-        {
-          "option": "Prime",
-          "answer": false,
-          "selected": false
-        },
-        {
-          "option": "Hulu",
-          "answer": false,
-          "selected": false
-        }
-      ]
-    }
-  },
-  {
-    "instruction": "",
-    "question": "Money is the [1] of all evil, so a popular saying goes.",
+    "question": "Money is the [1] of all evil, so a popular saying goes. Yet, [2] want to find out for themselves.",
     "options": {
       "0 ": [
         {
@@ -57,36 +24,25 @@
           "answer": false,
           "selected": false
         }
-      ]
-    }
-  },
-  {
-    "instruction": "",
-    "question": "Pride goes before a [1].",
-    "options": {
-      "0 ": [
+      ],
+      "1 ": [
         {
-          "option": "jump",
+          "option": "someone",
           "answer": false,
           "selected": false
         },
         {
-          "option": "leap",
+          "option": "all",
           "answer": false,
           "selected": false
         },
         {
-          "option": "launch",
-          "answer": false,
+          "option": "everyone",
+          "answer": true,
           "selected": false
         },
         {
-          "option": "drop",
-          "answer": false,
-          "selected": false
-        },
-        {
-          "option": "fall",
+          "option": "few",
           "answer": false,
           "selected": false
         }
