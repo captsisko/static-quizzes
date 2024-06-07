@@ -3,7 +3,7 @@
     "instruction": "",
     "question": "Money is the [1] of all evil, so a popular saying goes. Yet, [2] want to find out for themselves.",
     "options": {
-      "1 ": [
+      "1": [
         {
           "option": "begining",
           "answer": false,
@@ -25,7 +25,7 @@
           "selected": false
         }
       ],
-      "2 ": [
+      "2": [
         {
           "option": "someone",
           "answer": false,
@@ -53,7 +53,7 @@
     "instruction": "",
     "question": "Pride goes before a [1].",
     "options": {
-      "1 ": [
+      "1": [
         {
           "option": "jump",
           "answer": false,
