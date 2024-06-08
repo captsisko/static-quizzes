@@ -34,81 +34,26 @@
   },
   {
     "instruction": "",
-    "question": "Money is the [1] of all evil, so a popular saying goes. Yet, [2] want to find out for themselves.",
+    "question": "What is said to be the best defence ?[1] ",
     "options": {
       "1": [
         {
-          "option": "begining",
+          "option": "surrender",
           "answer": false,
           "selected": false
         },
         {
-          "option": "tip",
+          "option": "appeasement",
           "answer": false,
           "selected": false
         },
         {
-          "option": "root",
+          "option": "attach",
           "answer": true,
           "selected": false
         },
         {
-          "option": "reason",
-          "answer": false,
-          "selected": false
-        }
-      ],
-      "2": [
-        {
-          "option": "someone",
-          "answer": false,
-          "selected": false
-        },
-        {
-          "option": "all",
-          "answer": false,
-          "selected": false
-        },
-        {
-          "option": "everyone",
-          "answer": true,
-          "selected": false
-        },
-        {
-          "option": "few",
-          "answer": false,
-          "selected": false
-        }
-      ]
-    }
-  },
-  {
-    "instruction": "",
-    "question": "Best streaming service in the world, [1].",
-    "options": {
-      "1": [
-        {
-          "option": "Paramount",
-          "answer": false,
-          "selected": false
-        },
-        {
-          "option": "Disney",
-          "answer": false,
-          "selected": false
-        },
-        {
-          "option": "Netflix",
-          "answer": true,
-          "selected": false
-        },
-        {
-          "option": "Prime",
-          "answer": false,
-          "selected": false
-        },
-        {
-          "option": "Hulu",
+          "option": "co-operation",
           "answer": false,
           "selected": false
         }
