@@ -1,0 +1,52 @@
+[
+  {
+    "instruction": "",
+    "question": "Money is the [1] of all evil, so a popular saying goes. Yet, [2] want to find out for themselves.",
+    "options": [
+      [
+        {
+          "option": "beginning",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "tip",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "root",
+          "answer": true,
+          "selected": false
+        },
+        {
+          "option": "reason",
+          "answer": false,
+          "selected": false
+        }
+      ],
+      [
+        {
+          "option": "someone",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "all",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "everyone",
+          "answer": true,
+          "selected": false
+        },
+        {
+          "option": "few",
+          "answer": false,
+          "selected": false
+        }
+      ]
+    ]
+  }
+]
