@@ -3,52 +3,50 @@
     "instruction": "Fill in the blanks with the correct prepositions.",
     "question": "She is interested [0] painting and spends most of her weekends [1] the art gallery.",
     "options": [
-      {
-        "0": [
-          {
-            "option": "in",
-            "answer": true,
-            "selected": false
-          },
-          {
-            "option": "on",
-            "answer": false,
-            "selected": false
-          },
-          {
-            "option": "at",
-            "answer": false,
-            "selected": false
-          },
-          {
-            "option": "with",
-            "answer": false,
-            "selected": false
-          }
-        ],
-        "1": [
-          {
-            "option": "at",
-            "answer": true,
-            "selected": false
-          },
-          {
-            "option": "in",
-            "answer": false,
-            "selected": false
-          },
-          {
-            "option": "on",
-            "answer": false,
-            "selected": false
-          },
-          {
-            "option": "by",
-            "answer": false,
-            "selected": false
-          }
-        ]
-      }
+      [
+        {
+          "option": "in",
+          "answer": true,
+          "selected": false
+        },
+        {
+          "option": "on",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "at",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "with",
+          "answer": false,
+          "selected": false
+        }
+      ],
+      [
+        {
+          "option": "at",
+          "answer": true,
+          "selected": false
+        },
+        {
+          "option": "in",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "on",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "by",
+          "answer": false,
+          "selected": false
+        }
+      ]
     ]
   }
 ]
