@@ -2,8 +2,8 @@
   {
     "instruction": "",
     "question": "Pride goes before a [1].",
-    "options": {
-      "1": [
+    "options": [
+      [
         {
           "option": "jump",
           "answer": false,
@@ -30,13 +30,13 @@
           "selected": false
         }
       ]
-    }
+    ]
   },
   {
     "instruction": "",
     "question": "What is said to be the best defence ? ",
-    "options": {
-      "1": [
+    "options": [
+      [
         {
           "option": "surrender",
           "answer": false,
@@ -58,6 +58,6 @@
           "selected": false
         }
       ]
-    }
+ ]
   }
 ]

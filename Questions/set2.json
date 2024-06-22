@@ -3,26 +3,28 @@
     "instruction": "Choose the synonym of the underlined word:",
     "question": "The <u>ancient</u> ruins were a sight to behold.",
     "options": [
-      {
-        "option": "old",
-        "answer": true,
-        "selected": false
-      },
-      {
-        "option": "new",
-        "answer": false,
-        "selected": false
-      },
-      {
-        "option": "modern",
-        "answer": false,
-        "selected": false
-      },
-      {
-        "option": "recent",
-        "answer": false,
-        "selected": false
-      }
+      [
+        {
+          "option": "old",
+          "answer": true,
+          "selected": false
+        },
+        {
+          "option": "new",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "modern",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "recent",
+          "answer": false,
+          "selected": false
+        }
+      ]
     ]
   }
 ]
