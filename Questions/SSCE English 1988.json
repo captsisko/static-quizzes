@@ -1,0 +1,585 @@
+[
+  {},
+  {
+    "instruction": "Choose the word that is the most suitable to fill the numbered gap",
+    "question": "A hotel is supposed to be a home away from home, but the one we [1] was hell away from home. Initially, we were deceived by the beautiful surroundings and by the manager's [2] which was warm and inviting. After the usual [3] and signing of forms, we were checked in. We later discovered, to our utter dismay, that the hotel [4] many facilities, and that the few available [5] were either faulty or [6]. The rooms were somehow tolerable, but there was something we could not manage, food. Ww complained. Infact, we are just to [7] alive since whatever was on the [8] gave no [9]. The services there were definitely [10]. By the time we were due to [11] the following dat, everybody breathed a sign of [12] . Maybe I heard the manager say : \"Did you [13] a nice stay?\" And thinking he heard somebody say yes, he quickly added \"Please [14] again\".",
+    "options": [
+      [
+        {
+          "option": "moved into",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "checked",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "dropped",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "checked into",
+          "answer": true,
+          "selected": false
+        },
+        {
+          "option": "stood in",
+          "answer": false,
+          "selected": false
+        }
+      ],
+      [
+        {
+          "option": "reception",
+          "answer": true,
+          "selected": false
+        },
+        {
+          "option": "intention",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "rejection",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "conception",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "conviction",
+          "answer": false,
+          "selected": false
+        }
+      ],
+      [
+        {
+          "option": "feeling",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "filing",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "fill in",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "feel in",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "filing",
+          "answer": true,
+          "selected": false
+        }
+      ],
+      [
+        {
+          "option": "lacks",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "failed",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "lacked",
+          "answer": true,
+          "selected": false
+        },
+        {
+          "option": "lack",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "larks",
+          "answer": false,
+          "selected": false
+        }
+      ],
+      [
+        {
+          "option": "one",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "ones",
+          "answer": true,
+          "selected": false
+        },
+        {
+          "option": "warns",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "warn",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "once",
+          "answer": false,
+          "selected": false
+        }
+      ],
+      [
+        {
+          "option": "unattractive",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "cheap",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "impressive",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "standardized",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "substandard",
+          "answer": true,
+          "selected": false
+        }
+      ],
+      [
+        {
+          "option": "stay",
+          "answer": true,
+          "selected": false
+        },
+        {
+          "option": "stand",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "stop",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "sit",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "stoop",
+          "answer": false,
+          "selected": false
+        }
+      ],
+      [
+        {
+          "option": "menu",
+          "answer": true,
+          "selected": false
+        },
+        {
+          "option": "list",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "paper",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "dish",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "table",
+          "answer": false,
+          "selected": false
+        }
+      ],
+      [
+        {
+          "option": "joy",
+          "answer": true,
+          "selected": false
+        },
+        {
+          "option": "sweetness",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "problem",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "fear",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "digestion",
+          "answer": false,
+          "selected": false
+        }
+      ],
+      [
+        {
+          "option": "opposing",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "appealing",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "appaling",
+          "answer": true,
+          "selected": false
+        },
+        {
+          "option": "appertizing",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "oppressing",
+          "answer": false,
+          "selected": false
+        }
+      ],
+      [
+        {
+          "option": "check in",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "check out",
+          "answer": true,
+          "selected": false
+        },
+        {
+          "option": "check up",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "check into",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "check off",
+          "answer": false,
+          "selected": false
+        }
+      ],
+      [
+        {
+          "option": "release",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "reliefs",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "relieves",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "relief",
+          "answer": true,
+          "selected": false
+        },
+        {
+          "option": "relieve",
+          "answer": false,
+          "selected": false
+        }
+      ],
+      [
+        {
+          "option": "had",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "have",
+          "answer": true,
+          "selected": false
+        },
+        {
+          "option": "hard",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "heard",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "has",
+          "answer": false,
+          "selected": false
+        }
+      ],
+      [
+        {
+          "option": "see",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "try",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "drop",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "return",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "come",
+          "answer": true,
+          "selected": false
+        }
+      ]
+    ]
+  },
+  {
+    "instruction": "Choose the word/words most nearly opposite in meaning to the underlined",
+    "question": "Tunde <u>purchased</u> various articles at the big sale near Kingsway and surprisingly enough he [1] them all before he reached home that day.",
+    "options": [
+      [
+        {
+          "option": "destroyed",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "bought",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "sold",
+          "answer": true,
+          "selected": false
+        },
+        {
+          "option": "distributed",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "lent",
+          "answer": false,
+          "selected": false
+        }
+      ]
+    ]
+  },
+  {
+    "instruction": "Choose the word/words most nearly opposite in meaning to the underlined",
+    "question": "In this argument, Ade was my <u>supporter</u>, even though he is often my [1] in other matters.",
+    "options": [
+      [
+        {
+          "option": "opponent",
+          "answer": true,
+          "selected": false
+        },
+        {
+          "option": "ally",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "opposition",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "proposer",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "opposite",
+          "answer": false,
+          "selected": false
+        }
+      ]
+    ]
+  },
+  {
+    "instruction": "Choose the word/words most nearly opposite in meaning to the underlined",
+    "question": "People who are normally [1] often turn out to be <u>dauntless</u> heros in the face of real danger.",
+    "options": [
+      [
+        {
+          "option": "unsteady",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "colourless",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "cowardly",
+          "answer": true,
+          "selected": false
+        },
+        {
+          "option": "bashful",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "unfriendly",
+          "answer": false,
+          "selected": false
+        }
+      ]
+    ]
+  },
+  {
+    "instruction": "Choose the word/words most nearly opposite in meaning to the underlined",
+    "question": "I <u>encouraged</u> my younger brother to take on law as a profession while I [1] my sister from doing so.",
+    "options": [
+      [
+        {
+          "option": "financed",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "warned",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "dissuaded",
+          "answer": true,
+          "selected": false
+        },
+        {
+          "option": "persuaded",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "helped",
+          "answer": false,
+          "selected": false
+        }
+      ]
+    ]
+  },
+  {
+    "instruction": "Choose the word/words most nearly opposite in meaning to the underlined",
+    "question": "It is quite <u>customary</u> to introduce the guest speaker but [1] to insult him.",
+    "options": [
+      [
+        {
+          "option": "illegal",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "impolite",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "unusual",
+          "answer": true,
+          "selected": false
+        },
+        {
+          "option": "useless",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "pointless",
+          "answer": false,
+          "selected": false
+        }
+      ]
+    ]
+  },
+  {
+    "instruction": "Choose the word/words most nearly opposite in meaning to the underlined",
+    "question": "Olu was able to <u>kindle</u> the fire which my father had to [1] later.",
+    "options": [
+      [
+        {
+          "option": "kill",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "switch",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "extinguish",
+          "answer": true,
+          "selected": false
+        },
+        {
+          "option": "destroy",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "ignite",
+          "answer": false,
+          "selected": false
+        }
+      ]
+    ]
+  }
+]
