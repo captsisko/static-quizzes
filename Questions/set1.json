@@ -1,65 +1,31 @@
 [
   {
-    "instruction": "Choose the correct sequence of words to form a question.",
-    "question": "[1] you [2] to the party [3] night?",
+    "instruction": "Choose the word/words most nearly opposite in meaning to the underlined",
+    "question": "I <u>encouraged</u> my younger brother to take on law as a profession while I [1] my sister from doing so.",
     "options": [
       [
         {
-          "option": "Are",
+          "option": "financed",
           "answer": false,
           "selected": false
         },
         {
-          "option": "Do",
+          "option": "warned",
           "answer": false,
           "selected": false
         },
         {
-          "option": "Did",
+          "option": "dissuaded",
           "answer": true,
           "selected": false
         },
         {
-          "option": "Will",
-          "answer": false,
-          "selected": false
-        }
-      ],
-      [
-        {
-          "option": "go",
-          "answer": true,
-          "selected": false
-        },
-        {
-          "option": "went",
+          "option": "persuaded",
           "answer": false,
           "selected": false
         },
         {
-          "option": "going",
-          "answer": false,
-          "selected": false
-        }
-      ],
-      [
-        {
-          "option": "last",
-          "answer": true,
-          "selected": false
-        },
-        {
-          "option": "next",
-          "answer": false,
-          "selected": false
-        },
-        {
-          "option": "this",
-          "answer": false,
-          "selected": false
-        },
-        {
-          "option": "every",
+          "option": "helped",
           "answer": false,
           "selected": false
         }
