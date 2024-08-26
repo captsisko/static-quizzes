@@ -1,6 +1,444 @@
 [
   {
     "instruction": "Choose the word that is the most suitable to fill the numbered gap",
+    "question": "Probably the motorist saw the [1] lorry too [2] to be able to [3]. However, he realized that if he kept to the [4], a probably [5] head on [6] would be unavoidable. The only alternative was to take the lesser risk of leaving the road. With great care therefore, he turned sharply [7] the road and into the ditch by the [8]. The consequences was that, instead of being involved in a serious and probably fatal [9] , the [10] escaped with a few minor [11] and bruises, while the only [12] to his car was a bent mud guard. By [13] into the roadside ditch to avoid what could have been a collision with the approaching lorry, he averted a [14] at the [15] of a few [16] .",
+    "options": [
+      [
+        {
+          "option": "incoming",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "oncoming",
+          "answer": true,
+          "selected": false
+        },
+        {
+          "option": "downcoming",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "offcoming",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "outcoming",
+          "answer": false,
+          "selected": false
+        }
+      ],
+      [
+        {
+          "option": "much",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "early",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "soon",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "often",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "late",
+          "answer": true,
+          "selected": false
+        }
+      ],
+      [
+        {
+          "option": "avert",
+          "answer": true,
+          "selected": false
+        },
+        {
+          "option": "revert",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "convert",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "averse",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "reverse",
+          "answer": false,
+          "selected": false
+        }
+      ],
+      [
+        {
+          "option": "road-side",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "traffic",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "way",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "road",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "level-crossing",
+          "answer": true,
+          "selected": false
+        }
+      ],
+      [
+        {
+          "option": "slight",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "fatalistic",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "fatal",
+          "answer": true,
+          "selected": false
+        },
+        {
+          "option": "mild",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "fantastic",
+          "answer": false,
+          "selected": false
+        }
+      ],
+      [
+        {
+          "option": "collision",
+          "answer": true,
+          "selected": false
+        },
+        {
+          "option": "collusion",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "confusion",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "collation",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "coalition",
+          "answer": false,
+          "selected": false
+        }
+      ],
+      [
+        {
+          "option": "of",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "off",
+          "answer": true,
+          "selected": false
+        },
+        {
+          "option": "up",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "over",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "through",
+          "answer": false,
+          "selected": false
+        }
+      ],
+      [
+        {
+          "option": "road",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "level-crossing",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "pavement",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "alley",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "road-side",
+          "answer": true,
+          "selected": false
+        }
+      ],
+      [
+        {
+          "option": "casualty",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "collusion",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "fall",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "accident",
+          "answer": true,
+          "selected": false
+        },
+        {
+          "option": "jump",
+          "answer": false,
+          "selected": false
+        }
+      ],
+      [
+        {
+          "option": "transporter",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "cyclist",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "driver",
+          "answer": true,
+          "selected": false
+        },
+        {
+          "option": "rider",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "motor-cyclist",
+          "answer": false,
+          "selected": false
+        }
+      ],
+      [
+        {
+          "option": "caught",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "cuts",
+          "answer": true,
+          "selected": false
+        },
+        {
+          "option": "cut",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "cult",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "carts",
+          "answer": false,
+          "selected": false
+        }
+      ],
+      [
+        {
+          "option": "damage",
+          "answer": true,
+          "selected": false
+        },
+        {
+          "option": "collision",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "accident",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "repair",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "fall",
+          "answer": false,
+          "selected": false
+        }
+      ],
+      [
+        {
+          "option": "swerving",
+          "answer": true,
+          "selected": false
+        },
+        {
+          "option": "jumping",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "hooling",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "speeding",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "accelerating",
+          "answer": false,
+          "selected": false
+        }
+      ],
+      [
+        {
+          "option": "huge",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "gigantic",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "big",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "notorious",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "serious",
+          "answer": true,
+          "selected": false
+        }
+      ],
+      [
+        {
+          "option": "expends",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "expenses",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "expend",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "expense",
+          "answer": true,
+          "selected": false
+        },
+        {
+          "option": "expanse",
+          "answer": false,
+          "selected": false
+        }
+      ],
+      [
+        {
+          "option": "injured",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "injuries",
+          "answer": true,
+          "selected": false
+        },
+        {
+          "option": "injury",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "injurious",
+          "answer": false,
+          "selected": false
+        },
+        {
+          "option": "injure",
+          "answer": false,
+          "selected": false
+        }
+      ]
+    ]
+  },
+  {
+    "instruction": "Choose the word that is the most suitable to fill the numbered gap",
     "question": "A hotel is supposed to be a home away from home, but the one we [1] was hell away from home. Initially, we were deceived by the beautiful surroundings and by the manager's [2] which was warm and inviting. After the usual [3] and signing of forms, we were checked in. We later discovered, to our utter dismay, that the hotel [4] many facilities, and that the few available [5] were either faulty or [6]. The rooms were somehow tolerable, but there was something we could not manage, food. Ww complained. Infact, we are just to [7] alive since whatever was on the [8] gave no [9]. The services there were definitely [10]. By the time we were due to [11] the following dat, everybody breathed a sign of [12] . Maybe I heard the manager say : \"Did you [13] a nice stay?\" And thinking he heard somebody say yes, he quickly added \"Please [14] again\".",
     "options": [
       [
